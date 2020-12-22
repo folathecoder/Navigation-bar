@@ -63,6 +63,11 @@ body {
 /* responsiveness settings */
 @media (max-width:580px) {
 
+    .logo1 img {
+        width: 105px;
+        height: 35px;
+    }
+
     .menu-text1 {
         display:none;
     }
